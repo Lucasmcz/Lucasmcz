@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá/Hi there 👋
 
-<!--
-**Lucasmcz/Lucasmcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  LUCAS VINICIUS MOURA COSTA 
+-
+- 🔭 Estou em busca de um estagio ou trabalho /I am looking for intership or job 
+- 🌱 Estou estudando PHP/Learning PHP
+-  "Do you need a reason to not want to lose?"
 
-Here are some ideas to get you started:
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasmcz&show_icons=true&theme=dark)  <img >
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasmcz&layout=compact)](https://github.com/Lucasmcz/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucasmcz)](https://github.com/Lucasmcz/github-readme-stats)
