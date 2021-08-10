@@ -1,4 +1,4 @@
-### Olá/Hi there 👋
+
 
   LUCAS VINICIUS MOURA COSTA 
 - 20anos/20y
