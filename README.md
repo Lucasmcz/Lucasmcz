@@ -6,7 +6,7 @@
 - Desenvolvedor Back end Junior/Back End Developer Junior
 - Portugues e Ingles/Bilingual(Portuguese and English)
 - 🔭 Estou em busca de um estagio ou trabalho /I am looking for intership or job 
-- 🌱 Estou estudando PHP/Learning PHP
+- 🌱 Estou estudando PHP e Python/Learning PHP and Python
 -  "Do you need a reason to not want to lose?"
 
 
