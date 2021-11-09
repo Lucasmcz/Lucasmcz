@@ -3,7 +3,7 @@
   LUCAS VINICIUS MOURA COSTA 
 - 20anos/20y
 - Brazil🇧🇷
-- Desenvolvedor Back end Junior/Back End Developer Junior
+- Desenvolvedor Back/Front end Junior/Back End Developer Junior
 - Portugues e Ingles/Bilingual(Portuguese and English)
 - 🔭 Estou em busca de um estagio ou trabalho /I am looking for intership or job 
 - 🌱 Estou estudando PHP e Python/Learning PHP and Python
