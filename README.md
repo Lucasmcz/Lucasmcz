@@ -8,6 +8,7 @@
 - 🔭 Estou em busca de um estagio ou trabalho /I am looking for intership or job 
 - 🌱 Estou estudando PHP e Python/Learning PHP and Python
 -  "Do you need a reason to not want to lose?"
+-  -Linkedin : https://www.linkedin.com/in/lucas-vinicius-7b99b621b/
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasmcz&show_icons=true&theme=dark)  
