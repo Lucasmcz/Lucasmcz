@@ -3,9 +3,9 @@
   LUCAS VINICIUS MOURA COSTA 
 - 21anos/21y
 - Brazil🇧🇷
-- Desenvolvedor de Software Junior
+- TI Support 
 - Portugues e Ingles/Bilingual(Portuguese and English)
-- 🔭 Estou em busca de um estagio ou trabalho /I am looking for intership or job 
+- Conhecimento em Hardware e Redes / Knowledge in Hardware and Networking 
 - 🌱 Estou estudando HTML,CSS,JavaScript,Python e afins/Learning HTML,CSS,Javascript,Python and Others
 -  "Do you need a reason to not want to lose?"
 
