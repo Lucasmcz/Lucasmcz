@@ -7,7 +7,6 @@
 - Hardware enthusiast
 - Portugues e Ingles/Bilingual(Portuguese and English)
 - Conhecimento em Hardware e Redes / Knowledge in Hardware and Networking 
-- Estudando Programming with Python
 -  "Do you need a reason to not want to lose?"
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasmcz&show_icons=true&theme=dark)  
