@@ -1,15 +1,13 @@
+👋 Hi there! I'm Lucas
 
+🎓 Computer Science Student at UFAL| 💻 Aspiring Front-End Developer
+I’m passionate about building user-friendly, accessible, and creative digital solutions using technologies like HTML, CSS, JavaScript, and React. Currently, I’m sharpening my skills and exploring exciting opportunities to grow as a developer.
 
-  LUCAS VINICIUS MOURA COSTA 
-- 22anos/22y
-- Brazil🇧🇷
-- Junior Web developer
-- Web Enthusiast 
-- Portugues e Ingles/Bilingual(Portuguese and English)-
--  "Do you need a reason to not want to lose?"
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasmcz&show_icons=true&theme=dark)  
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasmcz&layout=compact)](https://github.com/Lucasmcz/github-readme-stats)
+🌟 What you’ll find here:
 
-
+Personal projects showcasing front-end development.
+Experiments and explorations as I continue learning and improving my skills.
+Collaborations and open-source contributions (coming soon!).
+🧡 Outside of coding, I’m an otaku who loves shonen anime. (Yes, I’ve taken inspiration from the determination of my favorite characters to fuel my journey!)
+🧡 PLUS ULTRA!!!
+Let’s create something amazing—whether it’s code, designs, or stories. 🚀
