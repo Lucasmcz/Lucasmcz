@@ -8,6 +8,6 @@ I’m passionate about building user-friendly, accessible, and creative digital 
 Personal projects showcasing front-end development.<br>
 Experiments and explorations as I continue learning and improving my skills.<br>
 Collaborations and open-source contributions (coming soon!).<br>
-🧡 Outside of coding, I’m an otaku who loves shonen anime. (Yes, I’ve taken inspiration from the determination of my favorite characters to fuel my journey!)<br>
+🧡 Outside of coding, I’m an Comics who loves Superhero stories. (Yes, I’ve taken inspiration from the determination of my favorite characters to fuel my journey!)<br>
 🧡 PLUS ULTRA!!!<br>
 Let’s create something amazing—whether it’s code, designs, or stories. 🚀<br>
